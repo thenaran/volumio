@@ -1,0 +1,60 @@
+{
+    "application": {
+        "description": "(BETA) Turns your PROTA into a music cloud server.",
+        "language": "english",
+        "author": "Volumio Inc.",
+        "url": "http://volumio.org",
+        "country": "KOR",
+        "labels": [
+            "volumio",
+            "NAS",
+            "NFS",
+            "storage"
+        ],
+        "name": "volumio",
+        "devices": [
+            "storage",
+            "web"
+        ],
+        "display": "Volumio",
+        "priority": "0",
+        "version": "1.3.141110",
+        "requires": [],
+        "ports": [
+            19080,
+            19081,
+            19082
+        ],
+        "sdk-version": "0.20.140919"
+    },
+    "dependency": {
+        "python": [],
+        "make": [
+            "/lib",
+            "/lib/shairport"
+        ],
+        "system": [
+            "git-core",
+            "alsa-utils",
+            "mpd",
+            "nginx",
+            "sqlite3",
+            "php5-fpm",
+            "php5-curl",
+            "php5-sqlite",
+            "php5-cli",
+            "samba",
+            "sudo",
+            "samba-common-bin",
+            "ntfs-3g",
+            "minidlna",
+            "autofs",
+            "smbclient",
+            "libssl-dev",
+            "libavahi-client-dev",
+            "libasound2-dev",
+            "mpc",
+            "avahi-daemon"
+        ]
+    }
+}

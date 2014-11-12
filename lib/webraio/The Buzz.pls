@@ -1,0 +1,24 @@
+[playlist]
+numberofentries=7
+File1=http://108.61.73.119:14126
+Title1=(#1 - 85/1000) 181.FM - The Buzz (Your Alternative Station!)
+Length1=-1
+File2=http://108.61.73.120:14126
+Title2=(#2 - 95/1000) 181.FM - The Buzz (Your Alternative Station!)
+Length2=-1
+File3=http://108.61.73.115:8126
+Title3=(#3 - 96/1000) 181.FM - The Buzz (Your Alternative Station!)
+Length3=-1
+File4=http://108.61.73.119:8126
+Title4=(#4 - 96/1000) 181.FM - The Buzz (Your Alternative Station!)
+Length4=-1
+File5=http://108.61.73.118:8126
+Title5=(#5 - 98/1000) 181.FM - The Buzz (Your Alternative Station!)
+Length5=-1
+File6=http://108.61.73.117:8126
+Title6=(#6 - 101/1000) 181.FM - The Buzz (Your Alternative Station!)
+Length6=-1
+File7=http://108.61.73.120:8126
+Title7=(#7 - 102/1000) 181.FM - The Buzz (Your Alternative Station!)
+Length7=-1
+Version=2
